@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soso
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java Script, React, and PhP (SOS)
 
 <!---
 Naxxale/Naxxale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
